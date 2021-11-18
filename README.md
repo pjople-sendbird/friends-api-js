@@ -15,3 +15,9 @@ Then, other users can upload a unique key as part of a friend discovery. Sendbir
 
 Other options are: Delete friend and delete a match between a personal discovery key and a discovery key request so a user will never be informed as a match.
 
+### Youtube video
+
+See how this demo works.
+
+https://www.youtube.com/watch?v=8EQeq2Ny5kA
+
